@@ -23,4 +23,4 @@ This project analyzes a real-world bank marketing dataset using Tableau to under
 - Dataset (.csv)
 
 ## Author
-Mogal Khaja Irfan Ali Baig
+MOGAL KHAJA IRFAN ALI BAIG 
